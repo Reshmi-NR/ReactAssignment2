@@ -29,7 +29,7 @@ export default class ReactAssignment2 extends Component {
         </div>
         <div className='dashedLine-1'></div>
         <div className='scrollCircle' onClick={handleScroll}>
-          <div class='circle-txt'>Scroll Down</div>
+          <div className='circle-txt'>Scroll Down</div>
         </div>
         <div className='buildingImage-1'></div>
         <div className='buildingImage-2'></div>
@@ -60,7 +60,7 @@ export default class ReactAssignment2 extends Component {
           </div>
         </div>
         <div className='bottomImg-1' id='ref'>
-          <div class='overlay'></div>
+          <div className='overlay'></div>
         </div>
         <div className='bottomImg-2'></div>
       </div>
