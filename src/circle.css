@@ -1,0 +1,9 @@
+.track {
+  fill: none;
+  stroke: black;
+  stroke-width: 20;
+}
+
+.round {
+  stroke-linejoin: round;
+}
